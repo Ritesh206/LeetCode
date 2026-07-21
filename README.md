@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritesh206/LeetCode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ritesh206/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
