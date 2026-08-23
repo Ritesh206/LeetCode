@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritesh206/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ritesh206/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Ritesh206/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritesh206/LeetCode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritesh206/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritesh206/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ritesh206/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ritesh206/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ritesh206/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritesh206/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -79,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ritesh206/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ritesh206/LeetCode/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ritesh206/LeetCode/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ritesh206/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
